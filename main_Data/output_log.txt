@@ -1,0 +1,30 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA Quadro M3000M (ID=0x13fa)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   22.21.13.8607
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\sunnyi\Documents\Unity3D\Juli_2018\Swarms\Flight_sim\Eelume_demo\Eelume_demo\main_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\sunnyi\Documents\Unity3D\Juli_2018\Swarms\Flight_sim\Eelume_demo\Eelume_demo\main_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\sunnyi\Documents\Unity3D\Juli_2018\Swarms\Flight_sim\Eelume_demo\Eelume_demo\main_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\sunnyi\Documents\Unity3D\Juli_2018\Swarms\Flight_sim\Eelume_demo\Eelume_demo\main_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\sunnyi\Documents\Unity3D\Juli_2018\Swarms\Flight_sim\Eelume_demo\Eelume_demo\main_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\sunnyi\Documents\Unity3D\Juli_2018\Swarms\Flight_sim\Eelume_demo\Eelume_demo\main_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\sunnyi\Documents\Unity3D\Juli_2018\Swarms\Flight_sim\Eelume_demo\Eelume_demo\main_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\sunnyi\Documents\Unity3D\Juli_2018\Swarms\Flight_sim\Eelume_demo\Eelume_demo\main_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.029 seconds
+Platform assembly: C:\Users\sunnyi\Documents\Unity3D\Juli_2018\Swarms\Flight_sim\Eelume_demo\Eelume_demo\main_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\sunnyi\Documents\Unity3D\Juli_2018\Swarms\Flight_sim\Eelume_demo\Eelume_demo\main_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1200 59Hz; virtual: 5040x2124 at -3120,-249
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.345699 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 7150 -> priority: 1 
+  Thread -> id: 2df4 -> priority: 1 
+  Thread -> id: 2a8c -> priority: 1 
+  Thread -> id: 6ffc -> priority: 1 
